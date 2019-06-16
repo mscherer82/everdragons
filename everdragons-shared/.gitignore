@@ -1,0 +1,5 @@
+.idea
+coinlist/**/*.js
+coinlist/**/*.map
+node_modules/
+accounts.db
